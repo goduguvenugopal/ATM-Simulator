@@ -1,0 +1,19 @@
+ 
+input{
+    padding-left: 10px;
+    padding-top: 3px;
+    word-spacing: 1.5;
+}
+
+#balance{
+    text-align: start;
+   
+}
+
+ #btn-box{
+    display: none;
+ }
+ 
+#balance{
+    display: none;
+}
